@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -15,5 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+- 🔭 Currently working on minecraft server.
+- 🌱 Learning everything.
+- 🐇 Bunnies!
+- 🐍 Who is python?
+
 ### Languages and tools
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width=40 height=40 />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width=40 height=40 />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width=40 height=40 />
