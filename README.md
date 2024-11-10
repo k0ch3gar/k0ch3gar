@@ -25,6 +25,7 @@ Here are some ideas to get you started:
 void WatermelonSolver(int mass) {
   std::cout << (mass > 2 && mass % 2 == 0 ? "YES\n" : "NO\n");
 }
+```
 
 ### Languages and tools
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width=40 height=40 />&nbsp;
