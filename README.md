@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - 🌱 Learning everything.
 - 🐇 Bunnies!
 - 🐍 Who is python?
-- 🌀 Favourite data structure - Fibonacci heap.
+- 🌀 Favourite data structure - <a href="https://github.com/k0ch3gar/Fibonacci-heap">Fibonacci heap</a>.
 
 ```cpp
 void WatermelonSolver(int mass) {
