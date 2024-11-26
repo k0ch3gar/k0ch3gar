@@ -22,6 +22,7 @@ Here are some ideas to get you started:
 - 🌱 Learning everything.
 - 🐇 Bunnies!
 - 🐍 Who is python?
+- 🍉 Solved HARDEST CodeForces task: <a href="https://codeforces.com/problemset/problem/4/A">4A - Арбуз</a>
 - 🌀 Favourite data structure - <a href="https://github.com/k0ch3gar/Fibonacci-heap">Fibonacci heap</a>.
 
 ```cpp
