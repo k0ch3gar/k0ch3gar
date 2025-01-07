@@ -1,6 +1,4 @@
-<div style="font-family: 'Lucida Console', monospace; font-size: 30px;" align="center">
-  <h1>Astonishing Konstantin Minecraft's profile ! ! !</h1>
-</div>
+<h1 align="center">Astonishing Konstantin Minecraft's profile ! ! !</h1>
 
 <picture><img src="https://media.tenor.com/Ji3cV4T-f3kAAAAj/glaceon-spinning.gif" alt="Goofy ahh crocodile" title="Goofy ahh crocodile" width="350" align="right" margin-right="100"></picture>
 
