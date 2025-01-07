@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="500" height="100">
+<svg xmlns="http://www.w3.org/2000/svg" width="500" height="100" >
   <style>
     @font-face {
       font-family: 'McFont';
@@ -7,8 +7,8 @@
     .custom {
       font-family: 'McFont', sans-serif;
       font-size: 24px;
-      fill: #000;
+      fill: #f8f8ff;
     }
   </style>
-  <text x="10" y="50" class="custom">Astonishing Konstantin Minecraft's Profile!!!</text>
+  <text x="10" y="50" class="custom"> Astonishing Konstantin Minecraft's Profile!!!</text>
 </svg>
