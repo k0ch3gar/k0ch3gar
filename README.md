@@ -1,22 +1,9 @@
-## Классный профиль Константина Майнкрафт!!!
+## Astonishing Konstantin Minecraft's profile!!!
+
+<picture><img src="https://media.tenor.com/Ji3cV4T-f3kAAAAj/glaceon-spinning.gif" alt="Goofy ahh crocodile" title="Goofy ahh crocodile" width="350" align="right"></picture>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=k0ch3gar&layout=compact)
 
-
-<!--
-**k0ch3gar/k0ch3gar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 - 🔭 Currently working on minecraft server.
 - 🌱 Learning everything.
