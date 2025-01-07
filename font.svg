@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="500" height="100">
+  <style>
+    @font-face {
+      font-family: 'McFont';
+      src: url('https://get.fontspace.co/download/font/Bmg3/YzZmODk4Y2EzMzc3NGM2MDk4OWQxNDRhZDhlNTQ2ZjAub3Rm/MinecraftRegular-Bmg3.otf') format('otf');
+    }
+    .custom {
+      font-family: 'McFont', sans-serif;
+      font-size: 24px;
+      fill: #000;
+    }
+  </style>
+  <text x="10" y="50" class="custom">Astonishing Konstantin Minecraft's Profile!!!</text>
+</svg>
