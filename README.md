@@ -1,4 +1,4 @@
-## Astonishing Konstantin Minecraft's profile!!!
+<h1 align="center"> Astonishing Konstantin Minecraft's profile!!! </h1>
 
 <picture><img src="https://media.tenor.com/Ji3cV4T-f3kAAAAj/glaceon-spinning.gif" alt="Goofy ahh crocodile" title="Goofy ahh crocodile" width="350" align="right"></picture>
 
