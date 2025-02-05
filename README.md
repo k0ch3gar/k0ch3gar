@@ -1,6 +1,6 @@
 <h1 align="center">Astonishing Konstantin Minecraft's profile ! ! !</h1>
 
-<picture><img src="https://media.tenor.com/Ji3cV4T-f3kAAAAj/glaceon-spinning.gif" alt="Goofy ahh crocodile" title="Goofy ahh crocodile" width="350" align="right" margin-right="100"></picture>
+<picture><img src="https://media.tenor.com/Ji3cV4T-f3kAAAAj/glaceon-spinning.gif" alt="Goofy ahh crocodile" title="Goofy ahh crocodile" width="350" align="right" margin-right="100" margin-bottom="20"></picture>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=k0ch3gar&layout=compact)
 
