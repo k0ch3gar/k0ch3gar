@@ -13,8 +13,13 @@
 - 🌀 Favourite data structure - <a href="https://github.com/k0ch3gar/Fibonacci-heap">Fibonacci heap</a>.
 
 ```cpp
-void WatermelonSolver(int mass) {
-  std::cout << (mass > 2 && mass % 2 == 0 ? "YES" : "NO") << std::endl;
+func WatermelonSolver(mass int) {
+  answer := "NO"
+  if mass > 2 && mass % 2 == 0 {
+    answer = "YES"
+  }
+  
+  fmt.Println(answer)
 }
 ```
 
